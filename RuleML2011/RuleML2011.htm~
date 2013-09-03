@@ -1,0 +1,530 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="js" id="html-main" dir="ltr" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>RuleML-2011 Semantic Tools | RuleML 2011</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="http://www.defeasible.org/ruleml2011ijcai/themes/ruleml/favicon.ico" type="image/x-icon">
+  <link type="text/css" rel="stylesheet" media="all" href="RuleML2011_files/node.css">
+<link type="text/css" rel="stylesheet" media="all" href="RuleML2011_files/defaults.css">
+<link type="text/css" rel="stylesheet" media="all" href="RuleML2011_files/system.css">
+<link type="text/css" rel="stylesheet" media="all" href="RuleML2011_files/system-menus.css">
+<link type="text/css" rel="stylesheet" media="all" href="RuleML2011_files/user.css">
+<link type="text/css" rel="stylesheet" media="all" href="RuleML2011_files/style.css">
+<link type="text/css" rel="stylesheet" media="all" href="RuleML2011_files/local.css">
+  <script type="text/javascript" src="RuleML2011_files/jquery.js"></script>
+<script type="text/javascript" src="RuleML2011_files/drupal.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/ruleml2011ijcai/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "pdf|phps|png|txt|xml|zip" } });
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+  <script type="text/javascript" src="RuleML2011_files/symposiumPlanner.js"></script>
+</head><body class="body-main georgia">	
+	
+<!-- / make-it-center -->
+<div class="make-it-center">
+
+<div class="top-menu clear-block">
+
+    
+  
+  <!-- >>>>>>>> REMOVE THIS IF YOU WANT TO GET RID OF TOP LINKS (RSS, LOGIN, REGISTER | PROFILE) start-->  
+ 
+  <div id="top-links">
+    <ul class="top-links-ul">
+    	
+    	<li><a href="http://www.defeasible.org/ruleml2011ijcai/?q=user">Log in</a></li>
+<!--
+      -->
+      <!--  
+	   
+-->	
+	</ul>
+  </div>
+
+  <!-- <<<<<<<< REMOVE THIS IF YOU WANT TO GET RID OF TOP LINKS (RSS, LOGIN, REGISTER) end -->
+
+</div>
+
+
+
+<!-- logo-container - ruleml-->
+<div id="logo-container">
+<div id="headerImg">
+
+<table>
+<tbody><tr valign="middle">
+   
+    <td id="logoBlock">
+      <div id="logo-picture">
+        <a href="http://www.defeasible.org/ruleml2011ijcai/" title="Home"><img src="RuleML2011_files/logo.png" alt="Home"></a>
+      </div>
+    </td>
+    <td id="portalTitle">
+          <div class="title"><a href="http://www.defeasible.org/ruleml2011ijcai/" title="Home">
+          RuleML 2011</a>
+      </div>
+      
+          <strong class="logo-picture-true">5th International Symposium on Rules</strong>
+     
+  </td>
+</tr>
+</tbody></table>
+
+</div> <!-- headerImg -->
+
+<div id="headerimagecopyright">
+  <a href="http://creativecommons.org/licenses/by/2.0/deed.en_US" title="prova"><img alt="Creativecommons" src="RuleML2011_files/CreativeCommons.png"></a>
+  <a href="http://www.flickr.com/photos/paco_calvino/" title="Creator's Hompage">Image by Paco CT</a>
+</div>
+
+</div> <!-- logo-container -->
+
+<!-- /logo-container - ruleml -->
+
+<!-- primary menu -->
+<div class="rws-primary-menu clear-block">
+    
+  
+  
+             
+  
+  <!-- admin edit   -->
+    <!-- admin edit   -->
+  
+  
+  
+    <!-- admin panel   -->
+     <!-- / admin panel -->
+
+
+</div>
+<!--  /primary menu -->
+
+<!-- column-1 -->
+<div class="column-1">  <div class="block block-menu" id="block-menu-menu-symposium-menu">
+       <div class="content"><ul class="menu"><li class="expanded first active-trail"><a href="http://www.defeasible.org/ruleml2011ijcai/" title="The Symposium">The Symposium</a><ul class="menu"><li class="leaf first"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=home" title="RuleML 2011">About RuleML 2011</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/9" title="Highlights">RuleML/IJCAI 2011 Joint Session</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/8" title="Who Will Attend">Who Will Attend</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/16" title="RuleML 2011 Invited Speakers">Keynotes</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/26" title="">Accepted Papers</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/17" title="Program Committee">Program Committee</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/27" title="">Program</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/20" title="Venue">Registration &amp; Venue</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/21" title="Sponsorship">Sponsorship</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=consortium" title="Other Activities">Doctoral Consortium</a></li>
+<li class="leaf last active-trail"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/25" title="RuleML Question and Answering System and further Tools" class="active">Symposium Planner 2011 &amp; Tools</a></li>
+</ul></li>
+<li class="expanded last"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/11" title="Authors">Authors</a><ul class="menu"><li class="leaf first"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/11" title="Objectives">Objectives</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/12" title="Topics">Topics</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=submissions" title="Submission Guidelines">Submission Guidelines</a></li>
+<li class="leaf"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=node/15" title="Important Dates">Important Dates</a></li>
+<li class="leaf last"><a href="http://www.defeasible.org/ruleml2011/node/23" title="RuleML2011@IJCAI Call for Papers">Call for Papers</a></li>
+</ul></li>
+</ul></div>
+ </div>
+  <div class="block block-menu" id="block-menu-menu-ruleml">
+   <h2 class="title">RuleML Initiative</h2>    <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.ruleml.org/" title="">About us</a></li>
+<li class="leaf"><a href="http://2011.ruleml.org/" title="">RuleML 2011</a></li>
+<li class="leaf"><a href="http://2011.ruleml.org/america" title="Fort Lauderdale, 3rd-5th November 2011">RuleML 2011@BRF</a></li>
+<li class="leaf last"><a href="http://www.defeasible.org/ruleml2011ijcai/?q=past" title="Previous RuleML Events">Previous RuleML</a></li>
+</ul></div>
+ </div>
+</div>
+<!-- / column-1 -->
+
+<!-- column-3 -->
+<div class="column-3">  <div class="block block-block" id="block-block-3">
+       <div class="content"><div id="rightBar">
+<h2 class="title">Sponsors</h2>
+<div class="logos">
+   		<a href="http://www.nicta.com.au/"><img src="RuleML2011_files/nicta_logo.html"></a>
+<div style="margin-left: 5px; color: silver;">(Silver Sponsor)</div>
+<p> <a href="http://www.franz.com/"><img src="RuleML2011_files/franz_logo.html"></a></p>
+<div style="margin-left: 5px; color: silver;">(Silver Sponsor)</div>
+<p>		<a href="http://www.vulcan.com/TemplateMain.aspx?contentId=34"><img src="RuleML2011_files/Vulcan_Logo.html"></a></p>
+<div style="margin-left: 5px; color: silver;">(Silver Sponsor)</div>
+<p>                <a href="http://www.corporate-semantic-web.de/"><img src="RuleML2011_files/csw_logo.html"></a></p>
+<div style="margin-left: 5px; color: brown;">(Silver Sponsor)</div>
+<p>               <a href="http://www.cirsfid.unibo.it/"><img src="RuleML2011_files/unibo.html"></a></p>
+<div style="margin-left: 5px; color: brown;">(Bronze Sponsor)</div>
+<p>                <a href="http://www.modelsystems.co.uk/"><img src="RuleML2011_files/modelsystems.html"></a></p>
+<div style="margin-left: 5px; color: brown;">(Bronze Sponsor)</div>
+<p>		<a href="http://www.legalxml.org/"><img src="RuleML2011_files/LegalXML.html"></a></p>
+<div style="margin-left: 5px; color: brown;">(Bronze Sponsor)</div>
+</div>
+</div>
+</div>
+ </div>
+  <div class="block block-block" id="block-block-4">
+       <div class="content"><div id="rightBar">
+<h2 class="title">Partners</h2>
+<div class="logos">
+<a href="http://www.w3c.org/"><img src="RuleML2011_files/w3c.html"></a><br>
+<a href="http://www.oasis-open.org/"><img src="RuleML2011_files/oasis.html"></a><br>
+<a href="http://www.omg.org/"><img src="RuleML2011_files/omg.html"></a><br>
+<a href="http://www.aaai.org/"><img src="RuleML2011_files/aaai-logo.html"></a><br>
+<a href="http://www.eccai.org/"><img src="RuleML2011_files/eccai_logo.html"></a><br>
+<a href="http://www.ep-ts.com/"><img src="RuleML2011_files/eptslogo.html"></a><br>
+<a width="80" height="80" href="http://www.bpmedu.net/"><img src="RuleML2011_files/logo_002.png" alt="BPM EduNet"><b>BPM EduNet</b></a>
+</div>
+</div>
+</div>
+ </div>
+  <div class="block block-block" id="block-block-5">
+       <div class="content"><div id="rightBar">
+<h2 class="title">Related Events</h2>
+<div class="logos">
+<a href="http://debs2011.fzi.de/" title="DEBS 2011" target="_new"><img src="RuleML2011_files/DEBS_2011_2b_0.jpg"></a><br>
+<a href="http://ijcai-11.iiia.csic.es/" title="IJCAI 2011" target="_new"><img src="RuleML2011_files/IJCAI2011.PNG"></a>
+</div>
+</div>
+</div>
+ </div>
+</div>
+<!-- / column-3 -->
+
+<!-- column-2 --><div class="column-2 ">
+						
+<!-- PRINTING BLOCKS BEFORE THE CONTENT (with RED headers) -->
+<!-- PRINTING BLOCKS BEFORE THE CONTENT (with RED headers) -->
+
+
+		<div class="breadcrumb"><a href="http://www.defeasible.org/ruleml2011ijcai/">Home</a></div>		
+		
+		<h1 class="title">RuleML-2011 Semantic Tools</h1>				<!-- main-content-block --><div class="main-content-block"> 
+		  <div class="node">
+    
+ <span class="submitted"></span>
+
+       
+    
+    <div class="content clear-block"><h2>Mobile RuleML-2011 App</h2>
+<p>All data of RuleML-2011 has been published as RDF meta data on the website and also on the <a href="http://data.semanticweb.org/">Semantic Web Dog Food</a> repository.  This <a href="http://graves.cl/ruleml/">Mobile RuleML-2011 App</a> consumes the meta data and provides information about authors, papers, sessions and Twitter news.</p>
+<p><a href="http://graves.cl/ruleml/">http://graves.cl/ruleml/</a> </p>
+<p>Designed by Alvaro Graves, Rensselaer Polytechnic Institute</p>
+<h2>Symposium Planner 2011</h2>
+<div class="column-2 ">
+<!-- PRINTING BLOCKS BEFORE THE CONTENT (with RED headers) --><!-- PRINTING BLOCKS BEFORE THE CONTENT (with RED headers) --><!-- PRINTING BLOCKS BEFORE THE CONTENT (with RED headers) --><!-- PRINTING BLOCKS BEFORE THE CONTENT (with RED headers) --><div id="content">
+<p>SymposiumPlanner is a distributed rule-based semantic agent system 
+for supporting the RuleML Symposia by coordinating personal agents that 
+assist the symposium chairs, answering questions from participants 
+interested in the symposium. Distributed rule agents in Symposium 
+Planner 2011 are implemented as <a href="http://www.prova.ws/">Prova agents</a> and OO jDREW agents which communicate via the <a href="http://reaction.ruleml.org/">Reaction RuleML</a>
+ interchange standard. Symposium  Planner 2011 consults the knowledge 
+not only from its semantic knowledge repository, but  also from the 
+public <a href="http://data.semanticweb.org/">Semantic Web Dog Food</a> meta data repository.</p>
+<p><a href="http://198.164.40.210:8080/ACE2ReactionRuleML/index.jsp"> Symposium Planner 2011 User Client</a>
+ allows users issuing queries to the SymposiumPlanner agents with the 
+Symposium Planner interface in HTML forms or in a controlled natural 
+language and receive answers.</p>
+<form name="form2" method="get" action="http://de.dbpedia.org/redirects/holk/"> <input name="Horde" value="3a466331bca877eeb014be19eee68790" type="hidden">
+<pre><textarea name="box1" cols="85" rows="20" wrap="off">&lt;RuleML xmlns="http://www.ruleml.org/0.91/xsd"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=
+   "http://www.ruleml.org/0.91/xsd "
+ xmlns:ruleml2011=
+   "http://ibis.in.tum.de/projects/paw#"&gt;
+&lt;Message mode="outbound"
+  directive="query-sync"&gt;
+   &lt;oid&gt;
+      &lt;Ind&gt;SymposiumPlanner2011&lt;/Ind&gt;
+   &lt;/oid&gt;
+   &lt;protocol&gt;
+      &lt;Ind&gt;esb&lt;/Ind&gt;
+   &lt;/protocol&gt;
+   &lt;sender&gt;
+      &lt;Ind&gt;User&lt;/Ind&gt;
+   &lt;/sender&gt;
+   &lt;content&gt;
+      &lt;Atom&gt;
+         &lt;Rel&gt;getContact&lt;/Rel&gt;
+         &lt;Ind&gt;ruleml2011ATijcai_GeneralChair&lt;/Ind&gt;
+         &lt;Var&gt;Contact&lt;/Var&gt;
+      &lt;/Atom&gt;
+   &lt;/content&gt;
+ &lt;/Message&gt;
+&lt;/RuleML&gt;
+
+</textarea></pre><div align="center"><input value="Send Message" type="submit"> </div>
+</form>
+<p><span style="font-weight: bold;">Query Selection</span><br><br>
+<span style="font-style: italic;">The drop-down boxes show sample 
+queries you -- via the External Agent -- can send to the RuleML-2011 
+Organizational Agent. These examples can also act as  initial templates 
+that you can edit to create your own queries.</span></p>
+<p><br></p>
+<p>Symposium Planner Organizational Agent</p>
+<form method="post" name="form1" id="form1">
+<div align="left">
+<select name="select1" onchange="elementSelected()">
+                                    <option value="A" selected="selected">RuleML-2011@IJCAI General Chair Contact</option>
+<option value="B">Publicity Chair Sponsoring</option>
+<option value="C">RuleML-2011@IJCAI Publicity Chair Contact</option>
+<option value="D">Liaison Chair View Media Partners</option>
+<option value="E">Liaison Chair View Organization Partners</option>
+<option value="F">Liaison Chair View Sponsors With Regards to Level</option>
+<option value="G">Liaison Chair View Sponsors</option>
+<option value="H">RuleML-2011@IJCAI Liaison Chair Contact</option>
+<option value="I">RuleML-2011@IJCAI Program Chair Contact</option>
+<option value="J">RuleML-2011@BRF General Chair Contact</option>
+<option value="K">RuleML-2011@BRF Publicity Chair Contact</option>
+<option value="L">RuleML-2011@BRF Liaison Chair Contact</option>
+<option value="M">RuleML-2011@BRF Program Chair Contact</option>
+<option value="N">Retrieve Tracks [Program Chair]</option>
+<option value="O">Retrieve Topics of a Track [Program Chair]</option>
+<option value="P">Retrieve Track of a Topic [Program Chair]</option>
+<option value="S">Retrieve all Track Chairs [Program Chair]</option>
+<option value="T">Retrieve names of Chairs for specific Track [Program Chair]</option>
+<option value="U">Paper Submission Query [Program Chair]</option>
+<option value="V">Please select sample queries</option>
+</select>
+</div>
+</form>
+<p>                              <br></p>
+<p>Sub-Organizational Agent (@IJCAI)</p>
+<form method="post" name="form3" id="form3">
+<div align="left">
+<select name="select3" onchange="elementSelected3()">
+                                    <option value="A">General Chair Contact</option>
+<option value="B">Publicity Chair Sponsoring</option>
+<option value="C">Publicity Chair Contact</option>
+<option value="D">Liaison Chair View Media Partners</option>
+<option value="E">Liaison Chair View Organization Partners</option>
+<option value="F">Liaison Chair View Sponsors With Regards to Level</option>
+<option value="G">Liaison Chair View Sponsors</option>
+<option value="H">Liaison Chair Contact</option>
+<option value="I">Program Chair Contact</option>
+<option value="J">Retrieve Tracks [Program Chair]</option>
+<option value="K">Retrieve Topics of a Track [Program Chair]</option>
+<option value="L">Retrieve Track of a Topic [Program Chair]</option>
+<option value="M">Find Tracks relevant to Keywords (string) [Program Chair] (takes longer)</option>
+<option value="O">Retrieve all Track Chairs [Program Chair]</option>
+<option value="P">Retrieve names of Chairs for specific Track [Program Chair]</option>
+<option value="Q">Retrieve Important Dates [Program Chair]</option>
+<option value="R">Retrieve Item of Important Dates [Program Chair]</option>
+<option value="S">Retrieve accepted Track Papers</option>
+<option value="U">Retrieve accepted Full Papers</option>
+<option value="V">Retrieve Authors of a Accepted Paper</option>
+<option value="W">Retrieve accepted Short Papers</option>
+<option value="X">Retrieve accepted Poster Papers</option>
+<option value="Y">Retrieve accepted DoctoralConsortium Papers Papers</option>
+<option value="T" selected="selected">Please select sample queries</option>
+</select>
+</div>
+</form>
+<p>                              <br></p>
+<p>Sub-Organizational Agent (@BRF)</p>
+<form method="post" name="form4" id="form4">
+<div align="left">
+<select name="select4" onchange="elementSelected4()">
+                                    <option value="A">General Chair Contact</option>
+<option value="B">Publicity Chair Sponsoring</option>
+<option value="G">Publicity Chair Contact</option>
+<option value="C">Liaison Chair View Media Partners</option>
+<option value="D">Liaison Chair View Organization Partners</option>
+<option value="E">Liaison Chair View Sponsors With Regards to Level</option>
+<option value="F">Liaison Chair View Sponsors</option>
+<option value="I">Program Chair Contact</option>
+<option value="J">Retrieve Tracks [Program Chair]</option>
+<option value="K">Retrieve Topics of a Track [Program Chair]</option>
+<option value="L">Retrieve Track of a Topic [Program Chair]</option>
+<option value="M">Find Tracks relevant to Keywords (string) [Program Chair] (takes longer)</option>
+<option value="O">Retrieve all Track Chairs [Program Chair]</option>
+<option value="P">Retrieve names of Chairs for specific Track [Program Chair]</option>
+<option value="T" selected="selected">Please select sample queries</option>
+</select>
+</div>
+</form>
+</div>
+<p><br></p>
+<h2>Sources Used by SymposiumPlanner-2011</h2>
+<div>
+<h3 class="ce_headline">SymposiumPlanner Organizational Agent:</h3>
+<ul>
+<li>Prova Knowledge Base [<a href="../RuleML2011/SymposiumPlanner2011.prova">Prova</a>]</li>
+<li>Role Assignment Matrix [<a href="../RuleML2011/SymposiumPlanner2011.owl">OWL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@IJCAI Organizational Agent:</h3>
+<ul>
+<li>Prova Knowledge Base [<a href="../RuleML2011IJCAI/RuleML-2011-IJCAI-Responder.prova">Prova</a>]</li>
+<li>Role Assignment Matrix [<a href="../RuleML2011IJCAI/RuleML-2011-IJCAI.owl">OWL</a>]</li>
+<li>RuleML-2011@IJCAI Metadata [<a href="../RuleML2011IJCAI/ruleml2011.rdfs">RDFS</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@IJCAI General Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011IJCAI/generalChairIJCAI-2011.posl">POSL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@IJCAI Publicity Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011IJCAI/publicityChairIJCAI-2011.posl">POSL</a>]</li>
+<li>Taxonomy [<a href="../RuleML2011IJCAI/publicityChairOntologyIJCAI-2011.rdf">RDF</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@IJCAI Liaison Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011IJCAI/liaisonChairIJCAI-2011.posl">POSL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@IJCAI Program Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011IJCAI/programChairIJCAI-2011.posl">POSL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@IJCAI Web Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011IJCAI/programChairIJCAI-2011.posl">POSL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@BRF Organizational Agent:</h3>
+<ul>
+<li>Prova Knowledge Base [<a href="../RuleML2011BRF/RuleML-2011-BRF-Responder.prova">Prova</a>]</li>
+<li>Role Assignment Matrix [<a href="../RuleML2011BRF/RuleML-2011-BRF.owl">OWL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@BRF General Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011BRF/generalChairBRF-2011.posl">POSL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@BRF Publicity Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011BRF/publicityChairBRF-2011.posl">POSL</a>]</li>
+<li>Taxonomy [<a href="../RuleML2011BRF/publicityChairOntologyBRF-2011.rdf">RDF</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@BRF Liaison Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011BRF/liaisonChairBRF-2011.posl">POSL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@BRF Program Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011BRF/programChairBRF-2011.posl">POSL</a>]</li>
+</ul>
+</div>
+<div>
+<h3 class="ce_headline">RuleML-2011@BRF Web Chair Agent:</h3>
+<ul>
+<li>Rule Base [<a href="../RuleML2011BRF/programChairBRF-2011.posl">POSL</a>]</li>
+</ul>
+<!-- PRINTING BLOCK AFTER THE CONTENT --><!-- PRINTING BLOCK AFTER THE CONTENT --><script type="text/javascript" src="RuleML2011_files/sps2011.html">
+elementSelected();
+</script></div></div></div>
+	      </div>
+		<!-- /main-content-block --></div>
+		
+
+
+<!-- PRINTING BLOCK AFTER THE CONTENT -->
+
+
+
+
+
+
+<!-- / column-2 --></div>
+
+
+<!-- column-3 -->
+<!--
+<div class="column-3">  <div class="block block-block" id="block-block-3">
+       <div class="content"><div id="rightBar">
+<h2 class="title">Sponsors</h2>
+<div class="logos">
+   		<a href="http://www.nicta.com.au/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/sponsors/nicta_logo.jpg" /></a>
+<div style="margin-left:5px;padding-bottom:5px font-size:5pt; color:silver;">(Silver Sponsor)</div>
+<p> <a href="http://www.franz.com/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/sponsors/franz_logo.jpg" /></a></p>
+<div style="margin-left:5px;padding-bottom:5px font-size:5pt; color:silver;">(Silver Sponsor)</div>
+<p>		<a href="http://www.vulcan.com/TemplateMain.aspx?contentId=34"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/sponsors/Vulcan_Logo.gif" /></a></p>
+<div style="margin-left:5px;padding-bottom:5px font-size:5pt; color:silver;">(Silver Sponsor)</div>
+<p>                <a href="http://www.corporate-semantic-web.de/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/sponsors/csw_logo.gif" /></a></p>
+<div style="margin-left:5px;padding-bottom:5px font-size:5pt; color:brown;">(Silver Sponsor)</div>
+<p>               <a href="http://www.cirsfid.unibo.it/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/sponsors/unibo.png" /></a></p>
+<div style="margin-left:5px;padding-bottom:5px font-size:5pt; color:brown;">(Bronze Sponsor)</div>
+<p>                <a href="http://www.modelsystems.co.uk/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/sponsors/modelsystems.gif" /></a></p>
+<div style="margin-left:5px;padding-bottom:5px font-size:5pt; color:brown;">(Bronze Sponsor)</div>
+<p>		<a href="http://www.legalxml.org/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/sponsors/LegalXML.png" /></a></p>
+<div style="margin-left:5px;padding-bottom:5px font-size:5pt; color:brown;">(Bronze Sponsor)</div>
+</div>
+</div>
+</div>
+ </div>
+  <div class="block block-block" id="block-block-4">
+       <div class="content"><div id="rightBar">
+<h2 class="title">Partners</h2>
+<div class="logos">
+<a href="http://www.w3c.org/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/partners/w3c.gif" /></a><br />
+<a href="http://www.oasis-open.org/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/partners/oasis.jpg" /></a><br />
+<a href="http://www.omg.org/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/partners/omg.gif" /></a><br />
+<a href="http://www.aaai.org/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/partners/aaai-logo.jpg" /></a><br />
+<a href="http://www.eccai.org/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/partners/eccai_logo.jpg" /></a><br />
+<a href="http://www.ep-ts.com/"><img src="http://decibel.cirsfid.unibo.it/ruleml-brf-2011/wp-content/themes/twentyten/images/partners/eptslogo.png" /></a><br />
+<a width=80 height=80 href="http://www.bpmedu.net/"><img src="http://www.bpmedu.net/themes/busy/logo.png" alt="BPM EduNet" /><b>BPM EduNet</b></a>
+</div>
+</div>
+</div>
+ </div>
+  <div class="block block-block" id="block-block-5">
+       <div class="content"><div id="rightBar">
+<h2 class="title">Related Events</h2>
+<div  class="logos">
+<a href="http://debs2011.fzi.de/" title="DEBS 2011" target="_new"><img src="./files/DEBS_2011_2b_0.jpg" /></a><br />
+<a href="http://ijcai-11.iiia.csic.es/" title="IJCAI 2011" target="_new"><img src="./files/IJCAI2011.PNG" /></a>
+</div>
+</div>
+</div>
+ </div>
+</div>
+-->
+<!-- / column-3 -->
+
+
+
+<!-- footer -->
+<div id="footer" class="clear-block">
+<!-- 
+    <div class="block block-system" id="block-system-0">
+       <div class="content"><a href="http://drupal.org"><img src="/ruleml2011ijcai/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a></div>
+ </div>
+-->
+
+<div class="clear-both">
+  Copyright © 2011 <a href="http://www.ruleml.org/" target="_new">RuleML Inc.</a> <br>
+Web master: <a href="mailto:oleklam@gmail.com">Brian H.P. Lam</a>
+  <script type="text/javascript" src="RuleML2011_files/googleanalytics.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script><script src="RuleML2011_files/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-3735483-6");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+</div>
+
+</div>
+<!-- /footer -->
+
+
+
+</div>
+<!-- / make-it-center -->
+
+	</body></html>
