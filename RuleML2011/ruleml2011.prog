@@ -1,0 +1,9 @@
+noun_mass('general-chair-of-RuleML-2011-IJCAI', 'ruleml2011ATijcai_GeneralChair', neutr).
+noun_mass('publicity-chair-of-RuleML-2011-IJCAI', 'ruleml2011ATijcai_PublicityChair', neutr).
+noun_mass('liaison-chair-of-RuleML-2011-IJCAI', 'ruleml2011ATijcai_LiaisonChair', neutr).
+noun_mass('program-chair-of-RuleML-2011-IJCAI', 'ruleml2011ATijcai_ProgramChair', neutr).
+noun_mass('contactInformation', 'Contact', neutr).
+noun_mass('general-chair-of-RuleML-2011-BRF', 'ruleml2011ATbrf_GeneralChair', neutr).
+noun_mass('publicity-chair-of-RuleML-2011-BRF', 'ruleml2011ATbrf_PublicityChair', neutr).
+noun_mass('liaison-chair-of-RuleML-2011-BRF', 'ruleml2011ATbrf_LiaisonChair', neutr).
+noun_mass('program-chair-of-RuleML-2011-BRF', 'ruleml2011ATbrf_ProgramChair', neutr).

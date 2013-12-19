@@ -1,0 +1,39 @@
+BODY {
+FONT-SIZE: 12px; MARGIN: 0px; LINE-HEIGHT: 150%;SCROLLBAR-FACE-COLOR: black; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: black; COLOR: black; SCROLLBAR-3DLIGHT-COLOR: black; SCROLLBAR-ARROW-COLOR: #ffffff; FONT-FAMILY: ; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: black; BACKGROUND-COLOR: #ffffff
+}
+
+DIV {
+	FONT-SIZE: 12px; MARGIN: 0px; LINE-HEIGHT: 150%
+}
+TD {
+	FONT-SIZE: 12px; MARGIN: 0px; LINE-HEIGHT: 150%
+}
+INPUT {
+	FONT-SIZE: 12px; MARGIN: 0px; LINE-HEIGHT: 150%
+}
+A.a02:link {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.a02:visited {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.a02:active {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+A.a02:hover {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+.input01 {
+	BORDER-RIGHT: #e78d00 1px solid; BORDER-TOP: #e78d00 1px solid; BORDER-LEFT: #e78d00 1px solid; WIDTH: 100px; BORDER-BOTTOM: #e78d00 1px solid; HEIGHT: 22px
+}
+.input02 {
+	BORDER-RIGHT: #b4b4b4 1px solid; BORDER-TOP: #b4b4b4 1px solid; BORDER-LEFT: #b4b4b4 1px solid; WIDTH: 100px; BORDER-BOTTOM: #b4b4b4 1px solid; HEIGHT: 22px
+}
+
+INPUT .text {
+	BORDER-RIGHT: #cecece 1px solid; BORDER-TOP: #cecece 1px solid; BORDER-LEFT: #cecece 1px solid; BORDER-BOTTOM: #cecece 1px solid
+}
+
+INPUT.button-submit {
+	BORDER-RIGHT: #cecece 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #cecece 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; BORDER-LEFT: #cecece 1px solid; CURSOR: pointer; COLOR: white; LINE-HEIGHT: 18px; PADDING-TOP: 0px; BORDER-BOTTOM: #cecece 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: orange
+}

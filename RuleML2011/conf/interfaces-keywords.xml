@@ -1,0 +1,27 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<interfaces xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<interface name="viewMediaPartners">
+		<keywords>
+			<keyword>meeting</keyword>
+			<keyword>Partner</keyword>
+		</keywords>
+	</interface>
+
+	<interface name="getContact">
+		<keywords>
+			<keyword>contact</keyword>
+		</keywords>
+	</interface>
+	
+	 <interface name="getPapers">
+		<keywords>
+			<keyword>paper</keyword>
+		</keywords>
+	</interface>
+	
+			 <interface name="getAuthorsOfPaper">
+		<keywords>
+			<keyword>author</keyword>
+		</keywords>
+	</interface>
+</interfaces>
